@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there, 👋
 
 👀 I’m interested in building projects
 🔭 I’m currently on my front end journey
