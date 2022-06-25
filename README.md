@@ -5,4 +5,5 @@ Hi there 👋
 👯 I’m looking to collaborate on amazing projects
 📫 How to reach me
     email: chibundumozia@gmail.com
+    twitter: https://twitter.com/chibundu_
 
